@@ -30,7 +30,7 @@ En Google Colab, el propio notebook incluye celdas que instalan las dependencias
 
 #Ejecución del notebook
 
-Abra el archivo Subproyecto1_MineriaDatos.ipynb en su entorno de preferencia (Google Colab, Jupyter, etc.).
+Abra el archivo NLP_Clasificacion_Automatica_de_Tickets.ipynb en su entorno de preferencia (Google Colab, Jupyter, etc.).
 
 Ejecute las celdas de código en orden secuencial, desde el inicio hasta el final del documento.
 
